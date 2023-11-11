@@ -1,0 +1,11 @@
+{
+    "terminals": [
+        {
+            "name": "My Terminal",
+            "commands": [
+                "cd ./MobileApp",
+                "npm run android"
+            ]
+        }
+    ]
+}
