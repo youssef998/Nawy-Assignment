@@ -33,7 +33,7 @@ npm start
 cd front
 
 Install dependencies:
-npm install
+npm install next
 run the frontend:
 npm run dev
 
